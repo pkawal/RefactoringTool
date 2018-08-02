@@ -1,0 +1,19 @@
+class myclas
+{
+int Demo(int par1,int par2)
+{
+int total = 10;
+printf("Hello World");
+total = total + l;
+return total;
+{}
+}
+void demo1(int par3,char pat)
+{
+
+int cat;
+ cat=5;
+cat=7;
+
+}
+}

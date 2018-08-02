@@ -1,0 +1,90 @@
+<collection title="setty1">
+<style type="python">
+		<item>Default</item>
+		<side>Fore</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>Main</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	
+	<style type="python">
+		<item>Default</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>Comment</item>
+		<side>Fore</side>
+		<color>#626C67</color>
+	</style>
+	<style type="python">
+		<item>Comment</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>Number</item>
+		<side>Fore</side>
+		<color>#FF3C41</color>
+	</style>
+	<style type="python">
+		<item>Number</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>String</item>
+		<side>Fore</side>
+		<color>#00C677</color>
+	</style>
+	<style type="python">
+		<item>String</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>Identifier</item>
+		<side>Fore</side>
+		<color>#FFFFFF</color>
+	</style>
+	<style type="python">
+		<item>Identifier</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	
+	<style type="python">
+		<item>Operator</item>
+		<side>Fore</side>
+		<color>#FF3C41</color>
+	</style>
+	<style type="python">
+		<item>Operator</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>ClassName</item>
+		<side>Fore</side>
+		<color>#76F5E6</color>
+	</style>
+	<style type="python">
+		<item>ClassName</item>
+		<side>Back</side>
+		<color>#000000</color>
+	</style>
+	<style type="python">
+		<item>WORD</item>
+		<side>Fore</side>
+		<color>#FFFFFF</color>
+	</style>
+	<style type="python">
+		<item>WORD</item>
+		<side>Back</side>
+		<color>#111111</color>
+	</style>
+
+</collection>

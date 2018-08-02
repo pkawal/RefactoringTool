@@ -1,0 +1,11 @@
+class abc
+{
+void Demo()
+{
+int account;
+ account=10;
+ account=20;
+}
+a=20;
+}
+

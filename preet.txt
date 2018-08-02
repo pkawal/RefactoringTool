@@ -1,0 +1,28 @@
+class IfElseDemo {
+    public static void main(String[] args) {
+
+        int testscore = 76;
+        char grade;
+
+
+
+boolean var0=testscore >= 90 ;
+boolean var1=testscore >= 80;
+boolean var2=testscore<=44;
+boolean var3=testscore >= 70 ;
+boolean var4=testscore >= 60;
+boolean var5=testscore<=70;
+if (var0) {
+            grade = 'A';
+        } else if (var1&&var2) {
+            grade = 'B';
+        } else if (var3) {
+            grade = 'C';
+        } else if (var4||var5) {
+            grade = 'D';
+        } else {
+            grade = 'F';
+        }
+        System.out.println("Grade = " + grade);
+    }
+}

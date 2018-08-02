@@ -1,0 +1,11 @@
+class:IfElseDemo:
+method:main;
+return type:int
+start:61:
+arguments:
+inside:
+testscore-int
+grade-char
+end:489:
+global:
+classend

@@ -1,0 +1,32 @@
+class abc
+{
+
+int Demo(int par1,int par2)
+{
+int total = 10;
+printf("Hello World");
+total = total + l;
+return total;
+
+}
+}
+class xyz
+{
+
+void demo1(int par3,char r)
+{
+int rat;
+}
+void demo2 (int part4 ,char t)
+{
+int f;
+}
+int Demo(int par1,int par2)
+{
+int total = 10;
+printf("Hello World");
+total = total + l;
+return total;
+
+}
+}

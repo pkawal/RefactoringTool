@@ -1,0 +1,10 @@
+class abc
+{
+void Demo(int myvar)
+{
+int temp,surabhi;
+ myvar=10+temp+surabhi;
+ myvar=20;
+}
+a=20;
+}

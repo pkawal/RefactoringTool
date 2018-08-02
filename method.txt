@@ -1,0 +1,13 @@
+class abc
+{
+void Demo(int myvar)
+{
+int pp;
+ myvar=10+pp;
+}
+void Demo1(int myvar)
+{
+ myvar=10+pp;
+}
+
+}

@@ -1,0 +1,53 @@
+class ccc
+{
+
+int Demo(int par1,int par2)
+{
+int total = 10;
+printf("Hello World");
+total = total + l;
+return total;
+
+}
+void Demo1()
+{
+}
+}
+class xyz
+{
+int Demo(int par1,int par2)
+{
+int total = 10;
+printf("Hello World");
+total = total + l;
+return total;
+
+}
+void demo1(int par3,char r)
+{
+int rat;
+}
+void demo2 (int part4 ,char t)
+{
+int f;
+}
+}
+class pqr
+{
+char demo3()
+{
+int a;
+}
+int Demo(int par1,int par2)
+{
+int total = 10;
+printf("Hello World");
+total = total + l;
+return total;
+
+}
+
+void Demo1()
+{
+}
+}

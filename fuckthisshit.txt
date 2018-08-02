@@ -1,0 +1,6 @@
+class else
+{
+if (account<=40&&bal==55)
+{
+else if (account>55||bal==44)
+else if (bal>=44 )}}
